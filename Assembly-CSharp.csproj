@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{ab69c234-65a9-8fe6-b4d2-8c002095f136}</ProjectGuid>
+    <ProjectGuid>{a6c00e46-b3be-ff6a-78be-956cb4d679c2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -572,31 +572,31 @@
         <HintPath>F:/unity/2019.4.19f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>F:/utilityEntity/Kart Test 0218/TestForMerge/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>F:/utilityEntity/TestForSmartMerge/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
